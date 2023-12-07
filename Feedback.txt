@@ -1,0 +1,9 @@
+Versão de Desktop:
+	Você precisa deixar o menu superior destacado, ou, deixar os botões mais juntos, pois no momento eles estão muito espaçado.
+	Rever as necessidades das animações e as animações escolhidas.
+	Imagens acabaram ficando muito grande, talves se você usar apenas a logo, ou colocar um max-width, para delimitar o tamanho máximo da imagem fique melhor. A imagem do whatsapp está esticada, dificultando a leitura. A imagem do Photoshop por exemplo, poderia ser um png para ter transparência. O botão do instagram, qual a necessidade de ter 3 deles?
+
+Versão Mobile:
+	O sombreamento das letras acabou dificultando um pouco a leitura.
+	Botôes do menu estão muito pequenos, dificultando o clique.
+	O espaço que há no final da página pode ser reduzido.
